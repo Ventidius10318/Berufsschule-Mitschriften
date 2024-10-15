@@ -21,5 +21,5 @@ Datum: 2024-10-15_08-00
 | Server | Server können auch als Dienste auf einem einfachen Host (z.B. Windows 10-PC) anderen Computern (Clients) Dienste anbieten. | Lehrerpräsentation. |
 | Server | Rechner, die ihre Dienste (Services) im Netzwerk anbieten, nennt man Server. | Lehrbuch: IT-Berufe, Grundstufe, 1. Jahr, S. 288 |
 |Client|Ein Programm oder Computer, welcher die Dienste eines Servers nutzt.| |
-|WoL|**Wake on LAN** ist eine Technologie, bei der mithilfe eines Magic Packets (also eines speziell geformten Netzwerkpaketes) ein Computer eingeschaltet werden kann.| |
+|WoL|**Wake on LAN** ist eine Technologie, bei der mithilfe eines Magic Packets (also eines speziell geformten Netzwerkpaketes) ein Computer eingeschaltet werden kann.|Heise Online|
 
